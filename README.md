@@ -1,6 +1,6 @@
-# vrx
-typa time we on typa time we on
+# 🧰 vrx codespace template
+this is a github codespaces configuration for the virtual robotx competition. 
 
-this repo contains the code for team illusion's vrx submission
+this repo is licensed under the mit license which is very permissive
 
-it's licensed under mit.
+to get started, clone the repository and press <kbd>.</kbd>
