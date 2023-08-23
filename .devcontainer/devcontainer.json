@@ -1,0 +1,8 @@
+{
+  "name": "VRX 2023",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": ["ms-python.python"],
+  "settings": {}
+}
