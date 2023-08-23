@@ -1,6 +1,9 @@
 {
   "name": "VRX 2023",
-  "image": "npslearninglab/watery_robots:vrx_current",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   "extensions": ["ms-python.python"],
-  "settings": {}
+  "settings": {},
+  "postCreateCommand": ". install/setup.bash"
 }
