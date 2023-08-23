@@ -1,6 +1,6 @@
 {
   "name": "VRX 2023",
-  "image": "npslearninglab/watery_robots",
+  "image": "npslearninglab/watery_robots:vrx",
   "extensions": ["ms-python.python"],
   "settings": {}
 }
