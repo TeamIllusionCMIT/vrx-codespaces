@@ -1,8 +1,6 @@
 {
   "name": "VRX 2023",
-  "build": {
-    "dockerfile": "Dockerfile"
-  },
+  "image": "npslearninglab/watery_robots",
   "extensions": ["ms-python.python"],
   "settings": {}
 }
